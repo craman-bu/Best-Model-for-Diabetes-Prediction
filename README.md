@@ -1,6 +1,6 @@
 # Best-Model-for-Diabetes-Prediction
-The goal of the project is to determine the best model and features to predict if a person has diabetes or not based on diagnostic measurements in the dataset.
-The algorithms that were run were KNN Classifier, Logistic Regression, SVC, and Random Forest. 
+The goal of the project is to determine the best model and features to predict if a person has diabetes or not based on  the diagnostic measurements in the dataset.
+Ran the following algorithms with hyperparameter tuning to determine best model:  KNN Classifier, Logistic Regression, SVC, and Random Forest. 
 
 Dataset used:  https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
